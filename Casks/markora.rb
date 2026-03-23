@@ -1,6 +1,6 @@
 cask "markora" do
   version "0.1.0"
-  sha256 "<SHA256>"
+  sha256 "134ddc074a19c1beb7a24c67e80fb2697de0fde2e0d5ed846d85bf94c491096e"
 
   url "https://github.com/yaozcoderepo/markora/releases/download/v#{version}/Markora_#{version}_aarch64.dmg"
   name "Markora"
